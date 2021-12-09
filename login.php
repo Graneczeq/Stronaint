@@ -98,7 +98,7 @@
     <section class="inner-page">
       <div class="container">
         
-          <form action="action_page.php" method="post">
+          <form action="login_action.php" method="post">
 		  
 
 <div>
