@@ -98,23 +98,23 @@
     <section class="inner-page">
       <div class="container">
         
-          <form action="action_page.php" method="post">
+          <form action="register_process.php" method="post">
 		  
 <div>
-    <label for="uname"><b>Imię</b></label>
-    <input type="name" placeholder="Podaj imię" name="uname" required>
+    <label for="name"><b>Imię</b></label>
+    <input type="name" placeholder="Podaj imię" name="name" required>
 </div>
 <div>
-  <label for="uname"><b>Nazwisko</b></label>
-  <input type="surname" placeholder="Podaj nazwisko" name="uname" required>
+  <label for="surname"><b>Nazwisko</b></label>
+  <input type="surname" placeholder="Podaj nazwisko" name="surname" required>
 </div>
 <div>
     <label for="uname"><b>Adres E-mail</b></label>
     <input type="email" placeholder="Podaj adres e-mail" name="uname" required>
 </div>
 <div>
-  <label for="uname"><b>Numer Telefonu</b></label>
-  <input type="phone" placeholder="Podaj numer telefonu" name="uname" required>
+  <label for="phone"><b>Numer Telefonu</b></label>
+  <input type="phone" placeholder="Podaj numer telefonu" name="phone" required>
 </div>
 <div>
     <label for="psw"><b>Hasło</b></label>
